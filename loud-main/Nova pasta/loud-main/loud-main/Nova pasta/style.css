@@ -1,0 +1,36 @@
+*{
+  margin:0;
+padding: 100000;
+}
+.cabecalho{
+    background-color:  #0A0A0A;
+    color:#ffffff;
+    display:flex;
+    justify-content: space-around;
+    padding: 6px 0;
+    font-size: 15px;
+}
+.cabecalhoImagem{
+    width:23%;
+}
+.cabecalhoListaItem{
+    display: inline-block;
+    margin:0 16px;
+    padding: 24px 0;
+}
+.sobreImagen{
+    width: 32%;
+}
+.Sobre{
+    background-image: linear-gradient(#0A0A0A,#37D81D);
+    color:rgb(252, 252, 252);
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 0px 22;
+}   
+.sobreconteudo{
+    width: 35%;
+
+
+}
